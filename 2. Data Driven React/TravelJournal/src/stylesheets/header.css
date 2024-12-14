@@ -1,0 +1,18 @@
+header {
+    background-color: #e66969;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: .5rem;
+    padding: 1rem;
+    color: white;
+    border-top: 10px solid white;
+    border-left: 10px solid white;
+    border-right: 10px solid white;
+    border-top-left-radius: 1.5rem;
+    border-top-right-radius: 1.5rem;
+}
+
+header > img {
+    width: 30px;
+}
